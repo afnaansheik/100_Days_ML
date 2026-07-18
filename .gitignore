@@ -5,7 +5,5 @@ __pycache__/
 venv/
 .env
 __MACOSX/
-
-# Don't push the big course PDF
 100_Days_of_Machine_Learning_Complete_Course_CampusX*.pdf
 *.pdf
